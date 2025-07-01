@@ -11,3 +11,5 @@ Suboptimal vaccine coverage level:
 https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_debug=0&_program=perfrept.perfmast.sas&ccyy=2023&sumlev=D&dsname=DISTRATE&prgopt=2023/acct/make_reference.sas
 
 https://rptsvr1.tea.texas.gov/cgi/sas/broker
+
+https://rptsvr1.tea.texas.gov/perfreport/snapshot/download.html
